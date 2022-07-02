@@ -1,4 +1,4 @@
-![image](/DZ3/images/git_image.png)
+![image](https://github.com/PIM89/DZ3/blob/homework/images/git_image.png)
 
 # Инструкция по работе с Git
 
@@ -58,7 +58,7 @@
 
 **git log** - команда для просмотра журнала изменений
 
-![image](/DZ3/images/git_log.png)
+![image](https://github.com/PIM89/DZ3/blob/homework/images/git_log.png)
 
 **git checkout** - команда для переключения между версиями.
 
@@ -66,13 +66,13 @@
 
 **git diff** - команда отображает разницу между текущим файлом и сохранённым.
 
-![image](/DZ3/images/git_diff.png)
+![image](https://github.com/PIM89/DZ3/blob/homework/images/git_diff.png)
 
 ## 4. Работа с ветками
 
 **git branch** - команда выводит список, имеющихся веток.
 
-![image](/DZ3/images/git_branch.png)
+![image](https://github.com/PIM89/DZ3/blob/homework/images/git_branch.png)
 
 **git branch name_branch** - команда для создания новой ветки name_branch.
 
@@ -82,7 +82,7 @@
 
 **git merge <имя ветки для слияния с текущей>** - команда для слияния веток.
 
-![image](/DZ3/images/git_merge.png)
+![image](https://github.com/PIM89/DZ3/blob/homework/images/git_merge.png)
 
 **git branch -d <имя ветки>** - команда для удаления ветки.
 
@@ -97,7 +97,7 @@
     При работе в двух ветках одновременно может возникнуть ситуация, когда в одной и другой ветке мы по-разному изменили блок текста.
     У проекта в репозитории должен быть один ответственный пользователь, наделённый правом проводить слияния и разрешать конфликты.
 
-![image](/DZ3/images/git_konflikt.png)
+![image](https://github.com/PIM89/DZ3/blob/homework/images/git_konflikt.png)
 
 *Accept Current Change* - принять текущую версию.
 
@@ -111,7 +111,7 @@
 
 **git --graph** - команда для отображения коммитов в виде дерева.
 
-![image](/DZ3/images/git_graph.png)
+![image](https://github.com/PIM89/DZ3/blob/homework/images/git_graph.png)
 
 ## 9. Работа с удаленными репозиториями.
 
