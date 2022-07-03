@@ -32,7 +32,12 @@
 
 ## Полезные ссылки
 
-[Тренажер git]()
+[Тренажер git](https://learngitbranching.js.org/?locale=ru_RU
+)
+
+## Полезные книги
+
+
 
 
 
