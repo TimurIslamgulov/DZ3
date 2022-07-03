@@ -11,7 +11,7 @@
 - *git push -u origin master* - how to add for GitHub
 - *git checkout branch* - to switch to another branch
 - *git branch -d* - for delite branch
-- *git merge branch* - for merging branches
+- *git merge "branch"* - for merging branches
 - *git log --graph* - show commits as a tree 
 - *git switch -c (new branch)* - if you delite branch and you want to create new branch with all information
 
