@@ -15,6 +15,7 @@
 - *git log --graph* - show commits as a tree 
 - *git switch -c (new branch)* - if you delite branch and you want to create new branch with all information
 
+- *git remote add origin https://github.com/имя_ник_пользователя/ИмяРепозитория.git* - connect a branch to a remote repository
 - *git clone* - for clone a repository into a new directory
 - *git pull* - fetch from and integrate with another repository or a local branch
 - *git fetch* - download objects and refs from another repository
