@@ -201,7 +201,8 @@ $ git push origin master
 
 Если хотите получить побольше информации об одном из удалённых репозиториев, вы можете использовать команду git remote show <remote>. Выполнив эту команду с некоторым именем, например, origin, вы получите следующий результат:
 
-$ git remote show origin
+$ git remote show 
+
 * remote origin
   Fetch URL: https://github.com/schacon/ticgit
   Push  URL: https://github.com/schacon/ticgit
