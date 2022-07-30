@@ -27,7 +27,7 @@ Download and install the latest version of Visual Studio Code using the followin
 
 Once Git and VSC are installed, create a folder on your PC or remote location where your project will reside and where your repository will be. After that open the folder that you have created via VSC by clicking the second icon in Explorer, as depicted in below image, or click *File/Open Folder...* in *Menu* tab of the program.
 
-![Open Folder](/dz3/images/create_new_file_and_folder.jpg) 
+![Open Folder](images/create_new_file_and_folder.jpg) 
 
 >**Note:** Avoid using cyrilic letters in the path name to your folder
 <p> </p>
