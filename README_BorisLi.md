@@ -25,5 +25,9 @@ At the time i did not see the benefit of moving from one oil & gas domain to ano
 - **Running** - a good way of meditation and settling down the swarm of thoughts at the end of busy day:). I have a longstanding intention to master full marathon distance. However, it is in the form of my dreams yet. Or my plans I should say, as I'm certain that I will achieve this goal one day.
 - **Travelling** - Being a lying seal on a resort beach is preferable type of travel:), however I'm a lover of active anventures too. The interest that becomes less and less affordable in the surrounding environment, unfortunately.
 - **Other** trivial types of joys from having a beer with friends to spending TV watching evenings with my family.
+<p> </p>
 
+# The aim of achieving new expertize in IT
 
+IT industry expansion these days is exponential and it will continue developing this way in foreseeable future. Having an expertize in IT gives you a greate flexibility in terms of place where you want to live as well as it offers competitive level of income. 
+These are the major factors which align with my needs. I would like to achieve sufficient level of financial independence to be able to choose freely which apartment, city or country I *would like to* live (as opposed to "*have to*") and which kind of life style I would like to have. That is, of course, without being too issusive about my capabilities and too naive about what the level of opportunities this inductry can offer to me.
