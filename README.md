@@ -38,3 +38,5 @@ https://stepik.org/lesson/3369/step/11?unit=952
 кстати несколько вариантов вставки картинок , кто - то давно интересовался
 
 https://ask-dev.ru/info/12384/add-images-to-readmemd-on-github
+
+
