@@ -69,4 +69,3 @@ copiing alien repository(you should work in a new branch)
 compare & pull request
 
 offer your changes to the owner of repository
-
