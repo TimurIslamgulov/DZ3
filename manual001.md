@@ -87,7 +87,7 @@ ______________
 * git commit -m "Save001" - создаем коммит
 * git remote add origin https://github.com/Avlnosorog/Programming-languare-C-.git - добавляем предварительно созданный пустой удаленный репозиторий
 
-* git push -u origin master - отправляем данные из локального репозитория в удаленный (в ветку master)
+* git push -u origin master - отправляем данные из локального репозитория в удаленный (в ветку master).
 
 _____________
 
