@@ -14,7 +14,7 @@
 
 _
 
-![scrin_foto1](foto1.png)
+![scrin_foto1](images/foto1.png)
 
 _
 
@@ -22,7 +22,7 @@ _
 
 _
 
-  ![scrin_foto2](foto2.png)
+  ![scrin_foto2](images/foto2.png)
 
 _  
   
