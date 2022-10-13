@@ -33,4 +33,4 @@
 * __git branch -d branch_to_delete__ - *удаляет ветку с именем new_branch_name*
 * __git check out branch_name__ - *переводит на ветку branch_name*
 * __git merge branch_name__ - *сливает ветку branch_name с текущей веткой*
-* __git log--graph__
+* __git log--graph__ - *выводит список коммитов виде красивого графа/дерева*
