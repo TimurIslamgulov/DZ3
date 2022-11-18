@@ -53,6 +53,10 @@
 
         к обычнгму выводу git log добавляется информация об изменениях в файлах
 
+    - __git log -graph__
+
+        показывает историю коммитов с визуализацией веток.
+
 * ### __git checkout *hash*__
     открывает версию файлов с указанным хеш-кодом
 
@@ -73,8 +77,62 @@
 
 * ### __git branch__
     Выводит список имеющихся веток, текущая ветка выделена 
+
 * ### __git branch *branchname*__
-    осуществляет переход на ветку *branchname*, если такая существует, иначе создаеь ее
+    создает ветку *branchname*
+
+ * ### __git branch -d *branchname*__
+    удаляет ветку *branchname* 
+
+    * ### __git branch -M *oldbranchname* *newbranchname*__
+    переименовывает ветку *oldbranchname* в *newbranchname*
+
+* ### __git checkout *branchname*__
+
+    осуществляет переход на ветку *branchname*
+
+    + ### __git checkout -b *branchname*__
+        создание ветки *branchname* и переход на нее
+
+* ### __git merge *branchname*__
+    сливает текущую ветку с веткой *branchname*, при этом изменения записываются в текущую ветку.
+
+    
+## 5. Работа с удаленными репозиториями
+
+* ### __git clone *URL*__
+    добавляет в текущую папку копию репозитория находящегося по адресу *URL*, сам удаленный репозиторий получает имя *origin*, локальная ветка *master* начинает отслеживать (track) удаленную ветку *origin/master*
+
+* ### __git add remote *repname* *URL*__
+    добавляет удаленный репозиторий находящийся по адресу *URL* присваивая ему имя *repname*
+
+* ### __git checkout -b *localbranch* *repname*/*remotebranch*__
+    создает локальную ветку *localbranch*,
+    отслеживающую удаленную ветку *remotebranch* с репозитория *repname*
+
+* ### __git branch -u *repname/remotebranchname*__
+    текущая локальная ветка начинает отслеживать удаленную ветку *remotebranchname* с репозитория *repname*
+
+* ### __git branch -vv__
+    выводит список локальных веток с информацией о том, за чем следит каждая ветка 
+
+![RemoteExample](RemoteExample.png)
+    
+
+* ### __git push__
+    "заливает" текущую локальную ветку на удаленную, которую отслеживает 
+    
+    - ### __git push *repname* *localbranchname:remotebranchname*__
+
+        заливает локальную ветку *localbranchname* на удаленную ветку *remotebranchname* репозитория *repname*
+
+* ### __git pull__
+    "заливает" в текущую локальную ветку (выполняя слияние) удаленную, которую она отслеживает
+
+
+
+
+
     
 
 
