@@ -36,7 +36,10 @@
 
     $ git branch testing
 
+![Как выглядит ветление](https://git-scm.com/book/en/v2/images/head-to-master.png)
+
 Для переключения на существующую ветку выполните команду git checkout. Давайте переключимся на ветку testing:
 
     $ git checkout testing
 
+![Рисунок переключение на ветку testing](https://git-scm.com/book/en/v2/images/head-to-testing.png)
