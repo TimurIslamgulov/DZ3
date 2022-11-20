@@ -1,4 +1,4 @@
-# Инструкция по работе с командами Git.
+# Инструкция по работе с командами Git!
 Надо установить программы Git (https://git-scm.com/) и VS code (https://code.visualstudio.com/).
 
 
