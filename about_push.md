@@ -121,3 +121,25 @@
     $ git checkout -b название ветки — создать новую ветку и сразу в неё переключиться.
     $ git push сервер ветка – залить изменения на сервер в указанную ветку.
     $ git push -f  — залить изменения на сервер в режиме force, то есть с возможностью переписать уже имеющиеся коммиты на сервере. Будьте очень аккуратны с этой командой, а лучше минимизируйте её использование, ведь вы будете переписывать серверные файлы.
+
+### Блок-схема Git, написанная на Mermaid
+
+```mermaid
+gitGraph
+    commit
+    commit
+    branch text_formatting
+    checkout text_formatting
+    commit
+    commit
+    checkout main
+    merge text_formatting
+    commit
+    commit
+    branch lists
+    checkout lists
+    commit
+    checkout main
+    merge lists
+    commit
+```
