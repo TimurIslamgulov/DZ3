@@ -84,10 +84,28 @@
 
 
 ***
+## **git clone "ссылка на удаленный репозиторий"**
+Копирует удаленный репозиторий в текущую папку.
+***
+## **git cd "Название папки"**
+Переносит действие в выбранную  папку.
+***
+## **git push**
+Позваляет закинуть с локального репозитория на удаленный.
+
+*<p style="text-align: right;">"Да, я просто накидаю текста в мой файл, чтобы выполнить задание...И не просите с меня картинок или типа того."</p>*
+***
+## **git pull**
+Наоборот, подкачивает информацию с удаленного репозитория.
+
+<p style="text-align: center;"><img src="https://images.squarespace-cdn.com/content/v1/581499b8e58c627afce6221c/1581468938705-RVGXK7G7ECWATKBP4KUP/green-man-1.gif" width="250" height="150"></p>
+*<p style="text-align: right;">"Страдай"</p>*
+
 ***
 ***
 
-    P.S. Это  [то, что помогало с созданием файла(*наведи курсор, увидишь тайтл*)](https://www.google.ru/webhp?tab=rw&authuser=0 "Я ссылка"). Или — [тут без тайтла](http://example.com/link).
+P.S. Это  [то, что помогало с созданием файла(*наведи курсор, увидишь тайтл*)](https://www.google.ru/webhp?tab=rw&authuser=0 "Я ссылка"). Или — [тут без тайтла](https://www.google.ru/webhp?tab=rw&authuser=0). 
+*Да, это ссылка на гугл.*
 
 | Команды гит   | Использовались ли при этой работе  |
 |:------------- |:---------------:|
@@ -102,3 +120,5 @@
 | git add|<span style="color:lime">✓</span>|
 | git commit|<span style="color:lime">✓</span>|
 | git config|<span style="color:red">×</span>|
+
+
