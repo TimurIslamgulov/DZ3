@@ -14,4 +14,4 @@
 
 * Git pull команда которая наоборот вытягивает файлы с сайта.
 
-Second chance
+Second chance1
