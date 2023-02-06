@@ -109,3 +109,7 @@ Git это распределённая система управления ве
 > Наблюдаем что ветка conflict удалена
 ![N|Solid](https://sun9-north.userapi.com/sun9-77/s/v1/ig2/gpKoB439D4EEFZgUIrgPo-xOkgxuez5nqPOcprDVaZ0eEYjHS8LK_o-jPQ4eTaiundbkDU1JLoWqeHLl47i7Z6ti.jpg?size=1280x762&quality=96&type=album)
 ![N|Solid](https://sun9-north.userapi.com/sun9-83/s/v1/ig2/jdXo7FBFXkZMSzwiEIK6PAIgDHMmXF3AC6INaozXhzdhWeEUYFYWrjJVKomjaLYgpagief8iC9KW3cxvW52AGf1F.jpg?size=1280x762&quality=96&type=album)
+
+### Подтверждение отправленного Pull request
+![N|Solid](https://sun9-west.userapi.com/sun9-52/s/v1/ig2/Bf4x0o2ge7sCswQHXCPKICSv2bL9icrbptORHVVkbxg-ngLjJrMmWQJEv6quKiwioKIBPQBxhHITcisIJoPp6P2Q.jpg?size=1280x762&quality=96&type=album)
+![N|Solid](https://sun9-east.userapi.com/sun9-42/s/v1/ig2/hIAJBPXPxILBuP3nvkWYeGZbv39Cus8NWC8Cy9Ei3JTqflh9rcbLFhNuFkQocnfP0j2myerEgPotyfJmUb2ibwnh.jpg?size=1280x762&quality=96&type=album)
