@@ -1,0 +1,82 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Rextester
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            int n=5;
+            int[,] m=new int [n,n];
+            int x=0;
+            int y=0;
+            int number=1;
+            int max_number=n*n;
+            int last_x=n;
+            int last_y=n;
+            int first_x=0;
+            int first_y=0;
+           
+            while (number<max_number+1)
+            {
+          
+            while (y<last_y & number<max_number+1)
+            {
+                m[x,y]=number;
+                y=y+1;
+                number=number+1;
+            }
+            
+            y=y-1;
+            x=x+1;
+            first_x=first_x+1;
+            
+            while (x<last_x & number<max_number+1)
+            {
+                m[x,y]=number;
+                x=x+1;
+                number=number+1;
+            }
+            
+            x=x-1;
+            y=y-1;
+            last_y=last_y-1;
+            
+            while (y>=first_y & number<max_number+1)
+            {
+                m[x,y]=number;
+                y=y-1;
+                number=number+1;
+            }
+            
+            y=y+1;
+            x=x-1;
+            last_x=last_x-1;
+            
+            while (x>=first_x & number<max_number+1)
+            {
+                m[x,y]=number;
+                x=x-1;
+                number=number+1;
+            }
+            
+            y=y+1;
+            x=x+1;
+            first_y=first_y+1;
+                
+            }
+            
+            for (int i = 0; i < m.GetLength(0); i++)
+            {
+                for (int j = 0; j < m.GetLength(1); j++)
+                {
+                    Console.Write(m[i,j]+" ");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}
