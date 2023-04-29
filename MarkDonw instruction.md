@@ -30,9 +30,37 @@
 
 Ссылка на [GitHub](https://github.com/)
 
-## Таблицы
 
 ## Заголовки
 Заголовки пишем через #
 
-## Заключение
+## Работа с удаленными репозиториями в git
+
++ <span style="color:yellow">git clone httрs://gthab.com/..../****.git</span>
+
+    *Эта команда позволяет склонировать внешний репозиторий на наш ПК*
+
++ <span style="color:yellow">git pull</span>
+   
+   *Эта команда позволяет скачать все из текущего репозитория и автоматически
+сделать merge с нашей версией*
+
++ <span style="color:yellow">git push</span>
+
+    *Эта команда позволяет отправить нашу версию репозитория на внешний
+репозиторий.* ТРЕБУЕТ АВТОРИЗАЦИИ *на внешнем репозитории*
+
+## Как сделать pull request
+
++ <span style="color:pink">Делаем fork репозитория</span>
+
++ <span style="color:pink">Делаем clone СВОЕЙ версии репозитория</span>
+
++ <span style="color:pink">Создаем новую ветку и в НЕЕ вносим свои изменения</span>
+
++ <span style="color:pink">Фиксируем изменения (делаем коммиты)</span>
+
++ <span style="color:pink">Отправляем свою версию в свой GitHub</span>
+
++ <span style="color:pink">На сайте GitHub нажимаем кнопку pull requests</span>
+
