@@ -1,0 +1,1 @@
+I want to solve problems in programming and business easier and faster, see many solutions and find the optimal one. 
