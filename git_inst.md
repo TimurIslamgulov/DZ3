@@ -23,7 +23,7 @@
 
 
 ## Скрин ко 2 заданию
-![Скрин README.md](Readme.png)
+![Скрин README.md](README.png)
 
 
 ## Блок-схема к 3 заданию
