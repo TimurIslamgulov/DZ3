@@ -1,1 +1,1 @@
-![Hardcore не получился](Спираль.jpg)
+![Hardcore не получился](Spiral.jpg)
