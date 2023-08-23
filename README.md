@@ -39,4 +39,3 @@ https://stepik.org/lesson/3369/step/11?unit=952
 
 https://ask-dev.ru/info/12384/add-images-to-readmemd-on-github
 
-hello from arthur
